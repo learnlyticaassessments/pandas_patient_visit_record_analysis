@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+      "**/secret_tests": true,
+      ".vscode": true
+    },
+    "search.exclude": {
+      "**/secret_tests": true,
+      ".vscode": true
+    },
+    "files.readonlyInclude": [
+      "**/secret_tests/**"
+    ]
+  }
